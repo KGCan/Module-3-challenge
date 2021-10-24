@@ -1,5 +1,3 @@
-# Module-3-Challenge
-
 # Challenge for Module 3 - JavaScript
 
 ## Using the code provided create a password generator as requested below:
@@ -31,9 +29,13 @@
  * CSS-code provided
  * JavaScript-base code provided, added addtional items to produce functionality that meets the above criteria
 
- # GitHub URL
+ # GitHub Repository URL
 
  # Website URL
+
+ # Screenshot
+
+![challenge3screengrab](https://user-images.githubusercontent.com/88002224/138615016-a4009669-c70a-4c5c-96e6-1a87bcc79bd7.PNG)
 
  ## Resources Used to complete the project:
  * Assistance from classmates
