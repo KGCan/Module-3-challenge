@@ -31,7 +31,11 @@
 
  # GitHub Repository URL
 
+ https://github.com/KGCan/Module-3-challenge.git
+
  # Website URL
+
+ https://kgcan.github.io/Module-3-challenge/
 
  # Screenshot
 
